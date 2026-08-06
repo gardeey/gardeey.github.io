@@ -1,2 +1,1 @@
-# gardeey.github.io
-Blog host
+Blog host repository
